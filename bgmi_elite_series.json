@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What are the device requirements?",
+        "answer": "• Only mobile devices are allowed.<br>• Tablets, emulators, or other external devices are strictly prohibited.<br>• Ensure your device meets the minimum specifications for smooth gameplay."
+    },
+    {
+        "question": "What is the team composition rule?",
+        "answer": "• Each team must consist of 4 players.<br>• A minimum of 3 players is required to participate in a match.<br>• Players can only represent one team during the tournament."
+    },
+    {
+        "question": "What maps and game mode will be used?",
+        "answer": "• All matches will be played in TPP mode unless specified otherwise.<br>• Maps include Erangel, Miramar, Sanhok, or Vikendi, as decided by the organizers."
+    }
+]
